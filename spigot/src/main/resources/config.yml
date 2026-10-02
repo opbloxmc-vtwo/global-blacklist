@@ -1,0 +1,10 @@
+github:
+  owner: opbloxmc-vtwo
+  repository: global-blacklist
+  branch: main
+  file: blacklist.json
+  token: ""
+  refresh-seconds: 90
+
+messages:
+  kick: "&cYou are blacklisted from this network."

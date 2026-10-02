@@ -1,0 +1,20 @@
+name: BlacklistSpigot
+version: "1.0.0"
+main: dev.blacklist.spigot.BlacklistPlugin
+api-version: "1.21"
+description: Review-gated network blacklist for Spigot / Paper
+authors: [Blacklist]
+depend: [floodgate]
+
+commands:
+  blacklist:
+    description: Manage the network blacklist
+    usage: /blacklist <add|confirm|check|list> [arguments]
+
+permissions:
+  blacklist.add:
+    description: Add players to the blacklist
+    default: op
+  blacklist.view:
+    description: View the network blacklist
+    default: op
