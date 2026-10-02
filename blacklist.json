@@ -1,3 +1,13 @@
 {
-  "entries": []
+  "entries": [
+    {
+      "platform": "JAVA",
+      "uuid": "cc62a988-82a3-45db-9d1d-1f58b8ea4362",
+      "xuid": "",
+      "username": "cc62a988-82a3-45db-9d1d-1f58b8ea4362",
+      "reason": "No reason provided",
+      "addedBy": "IShowAvoid",
+      "addedAt": "2026-10-02T08:26:44.340146100Z"
+    }
+  ]
 }
